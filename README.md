@@ -14,7 +14,7 @@
 
 <h3 align="left">⭐ About Me</h3>
 
-- 🎓 **Education:** Systems Analysis & Development undergraduate
+- 🎓 **Education:** Systems Analysis & Development undergraduate (5rd semester) at Estácio
 - 🧠 **Core Stack:** Python, Linux, PostgreSQL, Docker
 - 💛 **Open to:** Junior roles, internships, open-source collaboration, and freelance projects
 - 💬 **Ask me about:** Backend Architecture, Python Automation
@@ -26,8 +26,6 @@
 <p align="left">
   <b>Programming Languages</b><br>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHELL_SCRIPT-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
