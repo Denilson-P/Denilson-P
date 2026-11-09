@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Denilson Paiva 👋</h1>
 
 <p align="left">
-  💻 Systems Analysis & Development Student | Python Developer
+  💻 Systems Analysis & Development | Python Developer
 </p>
 
 <p align="left">
